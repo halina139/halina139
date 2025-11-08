@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name's Linh! I'm a high school student planning on majoring in computer science. 
+- 🔭 I’m currently working on a cybersecurity and machine learning project. 
+- 🌱 I’m currently taking the CS50R course.
+- 👯 I’m looking to collaborate on a project and to learn together. 
 
 <!--
 **halina139/halina139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
